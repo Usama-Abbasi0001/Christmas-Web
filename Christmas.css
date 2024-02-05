@@ -1,0 +1,1359 @@
+body{
+    background: rgba(37, 24, 25, 1);
+    color: white;
+    font-family: 'Josefin Sans', sans-serif;
+}
+#setting{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+#heading{
+    font-size: 20px;
+}
+#sec-cont{
+    margin-top: 5rem;
+}
+#one-col{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+#Merry p{
+    font-size: 56px;
+    font-weight: bold;
+}
+#year p{
+    font-size: 20px;
+    color: rgba(194, 189, 189, 1);
+    line-height: 22px;
+}
+#get{
+    background: rgba(220, 56, 69, 1);
+    height: 50px;
+    width: 9rem;
+    border: transparent;
+    border-radius: 64px;
+}
+#main-start{
+    margin-top: 60px;
+}
+#head-start p{
+    font-size: 26px;
+    color: rgba(243, 242, 242, 1);
+}
+#main-row{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+#three-main-row{
+    display: flex;
+    justify-content: space-between;
+}
+#gifts p{
+    color: rgba(243, 242, 242, 1);
+    font-size: 20px;
+}
+#They p{
+    margin-top: -10px;
+    color: rgba(194, 189, 189, 1);
+    font-size: 14px;
+}
+#love-main{
+    margin-top:7rem;
+}
+#first-col{
+    display: flex;
+    flex-direction: column;
+    padding-left: 20px;
+    justify-content: center;
+    align-items: center;
+}
+#first-col2{
+    display: flex;
+    justify-content: end;
+}
+#Lot p{
+    font-size: 30px;
+    color: rgba(243, 242, 242, 1);
+    font-weight: bold;
+}
+#this p{
+    font-size: 18px;
+    margin-top: 10px;
+    line-height: 22px;
+    color: rgba(194, 189, 189, 1);
+}
+#Send{
+    margin-top: 20px;
+}
+#Send-but{
+    background: rgba(220, 56, 69, 1);
+    border: transparent;
+    border-radius: 64px;
+    width: 12rem;
+    height: 50px;
+}
+#main-five{
+    margin-top: 70px;
+}
+#main-center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
+#center{
+    display: flex;
+    justify-content: center;
+}
+#shere p{
+    font-size: 24px;
+}
+#main-box-row{
+    display: flex;
+    gap: 50px;
+    padding-left: 90px;
+}
+#box1{
+    box-shadow: 0px 4px 24px 0px rgba(48, 29, 30, 0.1);
+    background: rgba(47, 34, 35, 1);
+    border-radius: 12px;
+    padding: 10px;
+}
+#heart{
+    display: flex;
+    justify-content: end;
+    margin-top: 10px;
+}
+#gudda{
+    display: flex;
+    justify-content: center;
+}
+#fivteen p{
+    padding-left: 10px;
+    margin-top: 5px;
+    margin-bottom: 0px;
+}
+#ging p{
+    padding-left: 10px;
+    color: rgba(194, 189, 189, 1);
+    margin-bottom: 3px;
+}
+#main-three-card{
+    margin-top: 7rem;
+}
+#two-col-set{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+#new p{
+    font-size: 26px;
+}
+#main-card-row{
+    display: flex;
+    justify-content: space-between;
+}
+#card-one{
+    border-radius: 12px;
+    background: rgba(47, 34, 35, 1);
+    padding: 0px;
+    position: relative;
+}
+#card-one img{
+    width: 100%;
+}
+#gool{
+    position: relative;
+    top: -130px;
+    left: 30px;
+}
+#gool img{
+    width: 120px;
+    height: 120px;
+}
+#gool1{
+    position: relative;
+    top: -130px;
+    left: 30px;
+}
+#gool1 img{
+    width: 120px;
+    height: 120px;
+}
+#Wreath{
+    margin-top:-100px;
+    text-align: center;
+}
+#Wreath011{
+    margin-top: 0px;
+    text-align: center;
+    font-size: 12px;
+    color:rgba(194, 189, 189, 1);
+}
+#button-pic{
+    display: flex;
+    justify-content: end;
+}
+#button-pic img{
+    width: 36px;
+    height: 36px;
+    margin-top: -15px;
+}
+#sec-last{
+    background: rgba(47, 34, 35, 1);
+    margin-top: 6rem;
+    border-radius: 32px;
+}
+#sec-last-row{
+    display: flex;
+    justify-content: center;
+}
+#sec-last-col{
+    padding-left: 130px;
+}
+#good{
+    font-size: 36px;
+    font-weight: bold;
+    margin-top: 30px;
+}
+#massege input{
+    height: 55px;
+    border: transparent;
+    border-radius: 64px;
+    width: 15rem;
+    margin-top: 20px;
+    background: rgba(37, 24, 25, 1);
+}
+#button input{
+    margin-top: 10px;
+    background: rgba(220, 56, 69, 1);
+    height: 55px;
+    border: transparent;
+    border-radius: 64px;
+    color: white;
+    margin-bottom: 30px;
+    width: 9rem;
+}
+ ::placeholder{
+    padding-left: 20px;
+}
+#last-sato{
+    display: flex;
+    gap: 5px;
+    align-items: center;
+}
+#last-footer{
+
+    margin-top: 6rem;
+    position: relative;
+}
+#last-pic img{
+    position: relative;
+    top: -200px;
+    left: 1150px;
+}
+#under-four-col{
+    display: flex;
+    justify-content: space-around;
+}
+#givebr p{
+    color: rgba(194, 189, 189, 1);
+    font-size: 16px;
+    margin-top: 20px;
+    padding-left: 10px;
+}
+#footer1{
+    margin-top: 20px;
+    padding-left: 20px;
+}
+#our p{
+    font-size: 22px;
+    
+}
+#dim p{
+    color: rgba(194, 189, 189, 1);   
+}
+#Available1{
+    margin-top: 10px;
+}
+#Available1 img{
+    margin-left: -20px;
+}
+#Available img{
+    margin-left: -20px;
+}
+#four-col2{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+#content{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#four-col4{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+}
+#last-pic{
+    display: flex;
+    justify-content: end;
+}
+/*smaall screen 767px */
+#small-screen ul{
+    margin-bottom: 0px;
+    gap: 40px;
+    display: flex;
+}
+#small-screen li{
+    list-style: none;
+}
+@media screen and (max-width:1199px) and (min-width:992px){
+    #main-five{
+        margin-top: 70px;
+    }
+    #main-center{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-top: 20px;
+    }
+    #center{
+        display: flex;
+        justify-content: center;
+    }
+    #shere p{
+        font-size: 24px;
+    }
+    #main-box-row{
+        display: flex;
+        gap: 30px;
+        padding-left: 90px;
+    }
+    #box1{
+        box-shadow: 0px 4px 24px 0px rgba(48, 29, 30, 0.1);
+        background: rgba(47, 34, 35, 1);
+        border-radius: 12px;
+        padding: 10px;
+    }
+    #heart{
+        display: flex;
+        justify-content: end;
+        margin-top: 10px;
+    }
+    #gudda{
+        display: flex;
+        justify-content: center;
+    }
+    #fivteen p{
+        padding-left: 10px;
+        margin-top: 7px;
+        margin-bottom: 0px;
+    }
+    #ging p{
+        padding-left: 10px;
+        color: rgba(194, 189, 189, 1);
+        margin-bottom: 3px;
+    }
+}
+@media screen and (max-width:991px) and (min-width:768px) {
+    #home {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    #home img{
+        margin-left: 90px;
+    }
+    #one-row{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    #Merry{
+        text-align: center;
+    }
+    #Merry p{
+        font-size: 56px;
+        font-weight: bold;
+    }
+    #year{
+        text-align: center;
+    }
+    #year p{
+        font-size: 18px;
+        color: rgba(194, 189, 189, 1);
+        line-height: 22px;
+    }
+    #main-get{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    #get{
+        background: rgba(220, 56, 69, 1);
+        height: 50px;
+        width: 10rem;
+        border: transparent;
+        border-radius: 64px;
+    }
+    #gifts p{
+        color: rgba(243, 242, 242, 1);
+        font-size: 18px;
+    }
+    #They p{
+        margin-top: -10px;
+        color: rgba(194, 189, 189, 1);
+        font-size: 12px;
+    }
+    #gifts p{
+        color: rgba(243, 242, 242, 1);
+        font-size: 18px;
+    }
+    #They p{
+        margin-top: -10px;
+        color: rgba(194, 189, 189, 1);
+        font-size: 12px;
+    }
+    #love-main{
+        margin-top:4rem;
+    }
+    #first-col{
+        display: flex;
+        flex-direction: column;
+        padding-left: 20px;
+        justify-content: center;
+        align-items: center;
+    }
+    #first-col2{
+        display: flex;
+        justify-content:start;
+        padding: 0px;
+    }
+    #first-col2 img{
+        width: 100%;
+    }
+    #Lot p{
+        font-size: 30px;
+        color: rgba(243, 242, 242, 1);
+        font-weight: bold;
+    }
+    #this p{
+        font-size: 18px;
+        margin-top: 0px;
+        line-height: 22px;
+        color: rgba(194, 189, 189, 1);
+    }
+    #Send{
+        margin-top: 0px;
+    }
+    #Send-but{
+        background: rgba(220, 56, 69, 1);
+        border: transparent;
+        border-radius: 64px;
+        width: 10rem;
+        height: 50px;
+    }
+    #main-five{
+        margin-top: 70px;
+    }
+    #main-center{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-top: 20px;
+    }
+    #center{
+        display: flex;
+        justify-content: center;
+    }
+    #shere p{
+        font-size: 24px;
+    }
+    #main-box-row{
+        display: flex;
+        gap: 20px;
+        padding-left: 50px;
+    }
+    #box1{
+        box-shadow: 0px 4px 24px 0px rgba(48, 29, 30, 0.1);
+        background: rgba(47, 34, 35, 1);
+        border-radius: 12px;
+        padding: 10px;
+        width: 150px;
+    }
+    #heart{
+        display: flex;
+        justify-content: end;
+        margin-top: 10px;
+    }
+    #gudda{
+        display: flex;
+        justify-content: center;
+    }
+    #fivteen p{
+        padding-left: 10px;
+        margin-top: 7px;
+        font-size: 18px;
+        margin-bottom: 0px;
+    }
+    #ging p{
+        padding-left: 10px;
+        font-size: 14px;
+        color: rgba(194, 189, 189, 1);
+        margin-bottom: 3px;
+    }
+    #main-three-card{
+        margin-top: 4rem;
+    }
+    #gool1{
+        position: relative;
+        top: -125px;
+        left: 20px;
+    }
+    #gool1 img{
+        width: 120px;
+        height: 120px;
+    }
+    #Wreath011{
+        margin-top: 0px;
+        text-align: center;
+        font-size: 10px;
+        color:rgba(194, 189, 189, 1);
+    }
+    #sec-last-row{
+        display: flex;
+        justify-content: center;
+    }
+    #sec-last-col1{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    #sec-last-col1 img{
+        width: 100%;
+    }
+    #sec-last-col{
+        padding-left: 50px;
+    }
+    #good{
+        font-size: 36px;
+        font-weight: bold;
+        margin-top: 30px;
+    }
+    #massege input{
+        height: 55px;
+        border: transparent;
+        border-radius: 64px;
+        width: 15rem;
+        margin-top: 20px;
+        background: rgba(37, 24, 25, 1);
+    }
+    #button input{
+        margin-top: 20px;
+        background: rgba(220, 56, 69, 1);
+        height: 55px;
+        border: transparent;
+        border-radius: 64px;
+        color: white;
+        margin-bottom: 30px;
+        width: 9rem;
+    }
+     ::placeholder{
+        padding-left: 20px;
+    }
+    #last-footer{
+        margin-top: 6rem;
+        position: relative;
+    }
+    #last-pic img{
+        position: relative;
+        top: -150px;
+        left: 220px;
+    }
+    #under-four-col{
+        display: flex;
+        justify-content: space-between;
+    
+    }
+    #givebr p{
+        color: rgba(194, 189, 189, 1);
+        font-size: 16px;
+        margin-top: 20px;
+        padding-left: 10px;
+    }
+    #footer1{
+        margin-top: 20px;
+        padding-left: 20px;
+    }
+    #our p{
+        font-size: 20px;
+        
+    }
+    #dim p{
+        color: rgba(194, 189, 189, 1);   
+    }
+    #Available1{
+        margin-top: 10px;
+    }
+    #content{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    #four-col4{
+        margin-top: 20px;
+        text-align: start;
+        padding-left: 20px;
+    }
+    #Available1 img{
+        margin-left: 0px;
+    }
+    #Available img{
+        margin-left: 0px;
+    }
+}
+@media screen and (max-width:767px) and (min-width:576px){
+    #home {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    #one-row{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    #Merry{
+        text-align: center;
+    }
+    #Merry p{
+        font-size: 46px;
+        font-weight: bold;
+    }
+    #year{
+        text-align: center;
+    }
+    #year p{
+        font-size: 14px;
+        color: rgba(194, 189, 189, 1);
+        line-height: 22px;
+    }
+    #main-get{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    #get{
+        background: rgba(220, 56, 69, 1);
+        height: 50px;
+        width: 10rem;
+        border: transparent;
+        border-radius: 64px;
+    }
+    #gifts p{
+        color: rgba(243, 242, 242, 1);
+        font-size: 10px;
+    }
+    #They p{
+        margin-top: -10px;
+        color: rgba(194, 189, 189, 1);
+        font-size: 8px;
+    }
+    #love-main{
+        margin-top:4rem;
+    }
+    #first-col{
+        display: flex;
+        flex-direction: column;
+        padding-left: 20px;
+        justify-content: center;
+        align-items: center;
+    }
+    #first-col2{
+        display: flex;
+        padding-left: 50px;
+        justify-content:center;
+    }
+    #Lot{
+        text-align: center;
+    }
+    #Lot p{
+        font-size: 40px;
+        color: rgba(243, 242, 242, 1);
+        font-weight: bold;
+    }
+    #this{
+        text-align: center;
+    }
+    #this p{
+        font-size: 18px;
+        margin-top: 0px;
+        line-height: 22px;
+        color: rgba(194, 189, 189, 1);
+    }
+    #Send{
+        margin-top: 0px;
+        align-items: center;
+        text-align: center;
+    }
+    #Send-but{
+        background: rgba(220, 56, 69, 1);
+        border: transparent;
+        border-radius: 64px;
+        width: 10rem;
+        height: 50px;
+    }
+    #love-main{
+        margin-top:4rem;
+    }
+    #first-col{
+        display: flex;
+        flex-direction: column;
+        padding-left: 20px;
+        justify-content: center;
+        align-items: center;
+    }
+    #first-col2{
+        display: flex;
+        justify-content:start;
+        padding: 0px;
+    }
+    #first-col2 img{
+        width: 100%;
+    }
+    #Lot p{
+        font-size: 30px;
+        color: rgba(243, 242, 242, 1);
+        font-weight: bold;
+    }
+    #this p{
+        font-size: 18px;
+        margin-top: 0px;
+        line-height: 22px;
+        color: rgba(194, 189, 189, 1);
+    }
+    #Send{
+        margin-top: 0px;
+    }
+    #Send-but{
+        background: rgba(220, 56, 69, 1);
+        border: transparent;
+        border-radius: 64px;
+        width: 10rem;
+        height: 50px;
+    }
+    #main-five{
+        margin-top: 70px;
+    }
+    #main-center{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-top: 20px;
+        margin-left: 3px;
+    }
+    #center{
+        display: flex;
+        justify-content: center;
+    }
+    #shere p{
+        font-size: 24px;
+    }
+    #main-box-row{
+        display: flex;
+        gap: 20px;
+        padding-left: 10px;
+    }
+    #box1{
+        box-shadow: 0px 4px 24px 0px rgba(48, 29, 30, 0.1);
+        background: rgba(47, 34, 35, 1);
+        border-radius: 12px;
+        padding: 10px;
+        width: 150px;
+    }
+    #heart{
+        display: flex;
+        justify-content: end;
+        margin-top: 10px;
+    }
+    #gudda{
+        display: flex;
+        justify-content: center;
+    }
+    #fivteen p{
+        padding-left: 10px;
+        margin-top: 7px;
+        font-size: 18px;
+        margin-bottom: 0px;
+    }
+    #ging p{
+        padding-left: 10px;
+        font-size: 14px;
+        color: rgba(194, 189, 189, 1);
+        margin-bottom: 3px;
+    }
+    #sec-last-row{
+        display: flex;
+        justify-content: center;
+    }
+    #sec-last-col1{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    #sec-last-col1 img{
+        width: 100%;
+    }
+    #sec-last-col{
+        padding-left: 50px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    #good{
+        font-size: 56px;
+        font-weight: bold;
+        margin-top: 30px;
+    }
+    #massege input{
+        height: 55px;
+        border: transparent;
+        border-radius: 64px;
+        width: 25rem;
+        margin-top: 20px;
+        background: rgba(37, 24, 25, 1);
+    }
+    #button input{
+        margin-top: 20px;
+        background: rgba(220, 56, 69, 1);
+        height: 55px;
+        border: transparent;
+        border-radius: 64px;
+        color: white;
+        margin-bottom: 30px;
+        width: 19rem;
+    }
+     ::placeholder{
+        padding-left: 20px;
+    }
+}
+@media screen and (max-width:575px) and (min-width:429px){
+    #home-1 {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    #row-sec{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    #one-row{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    #Merry{
+        text-align: center;
+    }
+    #Merry p{
+        font-size: 46px;
+        font-weight: bold;
+    }
+    #year{
+        text-align: center;
+    }
+    #year p{
+        font-size: 14px;
+        color: rgba(194, 189, 189, 1);
+        line-height: 22px;
+    }
+    #main-get{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    #get{
+        background: rgba(220, 56, 69, 1);
+        height: 50px;
+        width: 10rem;
+        border: transparent;
+        border-radius: 64px;
+    }
+    #love-main{
+        margin-top:4rem;
+    }
+    #first-col{
+        display: flex;
+        flex-direction: column;
+        padding-left: 20px;
+        justify-content: center;
+        align-items: center;
+    }
+    #first-col2{
+        display: flex;
+        justify-content:center;
+        text-align: center;
+    }
+    #Lot{
+        text-align: center;
+    }
+    #Lot p{
+        font-size: 30px;
+        color: rgba(243, 242, 242, 1);
+        font-weight: bold;
+    }
+    #this{
+        text-align: center;
+    }
+    #this p{
+        font-size: 18px;
+        margin-top: 0px;
+        line-height: 22px;
+        color: rgba(194, 189, 189, 1);
+    }
+    #Send{
+        margin-top: 0px;
+        align-items: center;
+        text-align: center;
+    }
+    #Send-but{
+        background: rgba(220, 56, 69, 1);
+        border: transparent;
+        border-radius: 64px;
+        width: 10rem;
+        height: 50px;
+    }
+    #love-main{
+        margin-top:4rem;
+    }
+    #first-col{
+        display: flex;
+        flex-direction: column;
+        padding-left: 20px;
+        justify-content: center;
+        align-items: center;
+    }
+    #first-col2{
+        display: flex;
+        justify-content:start;
+        padding: 0px;
+    }
+    #first-col2 img{
+        width: 100%;
+    }
+    #Lot p{
+        font-size: 30px;
+        color: rgba(243, 242, 242, 1);
+        font-weight: bold;
+    }
+    #this p{
+        font-size: 18px;
+        margin-top: 0px;
+        line-height: 22px;
+        color: rgba(194, 189, 189, 1);
+    }
+    #Send{
+        margin-top: 0px;
+    }
+    #Send-but{
+        background: rgba(220, 56, 69, 1);
+        border: transparent;
+        border-radius: 64px;
+        width: 10rem;
+        height: 50px;
+    }
+    #main-five{
+        margin-top: 70px;
+    }
+    #main-center{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-top: 20px;
+        margin-left: 3px;
+    }
+    #center{
+        display: flex;
+        justify-content: center;
+    }
+    #shere p{
+        font-size: 24px;
+    }
+    #main-box-row{
+        display: flex;
+        gap: 10px;
+        padding-left: 15px;
+    }
+    #box1{
+        box-shadow: 0px 4px 24px 0px rgba(48, 29, 30, 0.1);
+        background: rgba(47, 34, 35, 1);
+        border-radius: 12px;
+        padding: 10px;
+        width: 150px;
+    }
+    #heart{
+        display: flex;
+        justify-content: end;
+        margin-top: 10px;
+    }
+    #gudda{
+        display: flex;
+        justify-content: center;
+    }
+    #fivteen p{
+        padding-left: 10px;
+        margin-top: 7px;
+        font-size: 18px;
+        margin-bottom: 0px;
+    }
+    #ging p{
+        padding-left: 10px;
+        font-size: 14px;
+        color: rgba(194, 189, 189, 1);
+        margin-bottom: 3px;
+    }
+    #sec-last01{
+        margin-top: 3rem;
+    }
+    #sec-last-row01{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    #sec-last-col1{
+        background: rgba(47, 34, 35, 1);
+        border-radius: 64px;
+        display: flex;
+        position: relative;
+        top: -180px;
+        border: transparent;
+        align-items: center;
+        justify-content: center;
+
+    }
+    #sec-last-col{
+        background: rgba(47, 34, 35, 1);
+        border-radius: 64px;
+        border: transparent;
+        display: flex;
+        position: relative;
+        height: 500px;
+        align-items: center;
+        flex-direction: column;
+        padding-left: 0px;
+    }
+    #good{
+        font-size: 36px;
+        font-weight: bold;
+        margin-top: 30px;
+    }
+    #massege input{
+        height: 55px;
+        border: transparent;
+        border-radius: 64px;
+        width: 15rem;
+        margin-top: 20px;
+        background: rgba(37, 24, 25, 1);
+    }
+    #button input{
+        margin-top: 20px;
+        background: rgba(220, 56, 69, 1);
+        height: 55px;
+        border: transparent;
+        border-radius: 64px;
+        color: white;
+        margin-bottom: 30px;
+        width: 9rem;
+    }
+     ::placeholder{
+        padding-left: 20px;
+    }
+}
+@media screen and (max-width:430px) {
+    #first-mob-cont{
+        padding-left: 2rem;
+        padding-right: 2rem;
+    }
+    #sec-cont{
+        margin-top: 30px;
+    }
+    #home-1 {
+        margin-left: 40px;
+    }
+    #row-sec{
+        display: flex;
+        flex-direction: column;
+    }
+    #one-row{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    #Merry{
+        text-align: center;
+    }
+    #Merry p{
+        font-size: 28px;
+        font-weight: bold;
+    }
+    #year{
+        text-align: center;
+        margin-left: 30px;
+    }
+    #year p{
+        font-size: 16px;
+        width: 290px;
+        color: rgba(194, 189, 189, 1);
+        line-height: 22px;
+    }
+    #main-get{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    #get{
+        background: rgba(220, 56, 69, 1);
+        height: 50px;
+        width: 10rem;
+        border: transparent;
+        border-radius: 64px;
+    }
+    #gifts p{
+        color: rgba(243, 242, 242, 1);
+        font-size: 16px;
+    }
+    #They p{
+        margin-top: -10px;
+        color: rgba(194, 189, 189, 1);
+        font-size: 10px;
+    }
+    #love-main{
+        margin-top:4rem;
+    }
+    #first-col{
+        display: flex;
+        flex-direction: column;
+        padding-left: 20px;
+        justify-content: center;
+        align-items: center;
+    }
+    #first-col2{
+        display: flex;
+        justify-content:center;
+        text-align: center;
+    }
+    #Lot{
+        text-align: center;
+    }
+    #Lot p{
+        font-size: 30px;
+        color: rgba(243, 242, 242, 1);
+        font-weight: bold;
+    }
+    #this{
+        text-align: center;
+    }
+    #this p{
+        font-size: 18px;
+        margin-top: 0px;
+        line-height: 22px;
+        color: rgba(194, 189, 189, 1);
+    }
+    #Send{
+        margin-top: 0px;
+        align-items: center;
+        text-align: center;
+    }
+    #Send-but{
+        background: rgba(220, 56, 69, 1);
+        border: transparent;
+        border-radius: 64px;
+        width: 12rem;
+        height: 50px;
+    }
+    #main-five{
+        margin-top: 40px;
+    }
+    #main-center{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-top: 20px;
+        margin-left: 3px;
+    }
+    #center{
+        display: flex;
+        justify-content: center;
+    }
+    #shere p{
+        font-size: 24px;
+    }
+    #main-box-row{
+        display: flex;
+        gap: 10px;
+        padding-left: 5px;
+    }
+    #box1{
+        box-shadow: 0px 4px 24px 0px rgba(48, 29, 30, 0.1);
+        background: rgba(47, 34, 35, 1);
+        border-radius: 12px;
+        padding: 10px;
+        width: 160px;
+    }
+    #heart{
+        display: flex;
+        justify-content: end;
+        margin-top: 10px;
+    }
+    #gudda{
+        display: flex;
+        justify-content: center;
+    }
+    #fivteen p{
+        padding-left: 10px;
+        margin-top: 7px;
+        font-size: 18px;
+        margin-bottom: 0px;
+    }
+    #ging p{
+        padding-left: 10px;
+        font-size: 14px;
+        color: rgba(194, 189, 189, 1);
+        margin-bottom: 3px;
+    }
+    #main-three-card{
+        margin-top: 4rem;
+    }
+    #sec-last01{
+        margin-top: 3rem;
+    }
+    #sec-last-row01{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 700px;
+    }
+    #sec-last-col1{
+        background: rgba(47, 34, 35, 1);
+        border-radius: 32px;
+        display: flex;
+        position: relative;
+        top: -180px;
+        border: transparent;
+        align-items: center;
+        justify-content: center;
+
+    }
+    #sec-last-col{
+        background: rgba(47, 34, 35, 1);
+        border-radius: 32px;
+        border: transparent;
+        display: flex;
+        position: relative;
+        height: 500px;
+        align-items: center;
+        flex-direction: column;
+        padding-left: 0px;
+    }
+    #good{
+        font-size: 26px;
+        text-align: center;
+        font-weight: bold;
+        margin-top: 30px;
+    }
+    #massege input{
+        height: 55px;
+        border: transparent;
+        border-radius: 64px;
+        width: 18rem;
+        margin-top: 20px;
+        background: rgba(37, 24, 25, 1);
+    }
+    #button input{
+        margin-top: 20px;
+        background: rgba(220, 56, 69, 1);
+        height: 55px;
+        border: transparent;
+        border-radius: 64px;
+        color: white;
+        margin-bottom: 30px;
+        width: 16rem;
+    }
+     ::placeholder{
+        padding-left: 20px;
+    }
+    #last-footer{
+        margin-top: 2rem;
+        position: relative;
+    }
+    #green01 img{
+        position: relative;
+        top: -450px;
+        left: 200px;
+    }
+    #cut-pix img{
+        position: relative;
+        top: -240px;
+        left: 310px;
+    }
+    #under-four-col{
+        display: flex;
+        justify-content: space-between;
+    
+    }
+    #givebr p{
+        color: rgba(194, 189, 189, 1);
+        font-size: 16px;
+        margin-top: 20px;
+        padding-left: 10px;
+    }
+    #footer1{
+        margin-top: 20px;
+        padding-left: 20px;
+        display: none;
+    }
+    #our p{
+        font-size: 20px;
+        
+    }
+    #dim p{
+        color: rgba(194, 189, 189, 1);   
+    }
+    #Available1{
+        margin-top: 10px;
+    }
+    #four-col2{
+        padding-left: 20px;
+    }
+    #content{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    #four-col3{
+        padding-left: 20px;
+    }
+    #four-col4{
+        margin-top: 20px;
+        text-align: start;
+        padding-left: 20px;
+    }
+    #Available1 img{
+        margin-left: 0px;
+    }
+    #Available img{
+        margin-left: 0px;
+    }
+}
